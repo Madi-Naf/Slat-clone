@@ -1,1 +1,24 @@
-/* css */
+/* General */
+body{
+	/*background-color: #f8f2f4; */
+	background-color: #6e0031;
+}
+hr{
+  height: 0.2em;
+  padding: 0;
+  background-color: #f8f2f4;
+  border: 1em;
+}
+
+.Partenaires{
+	
+}
+
+/* item center */
+.center-container{
+  width: 100%;
+  text-align: center;
+}
+.item-center{
+  display: inline-block;
+}
