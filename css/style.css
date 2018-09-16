@@ -1,17 +1,22 @@
 /* General */
 body{
-	/*background-color: #f8f2f4; */
+
 	background-color: #6e0031;
 }
-hr{
-  height: 0.2em;
-  padding: 0;
+/*background-color*/
+.bg-white-page{
   background-color: #f8f2f4;
-  border: 1em;
 }
-
-.Partenaires{
-	
+.white-line{
+  border-bottom: 3px solid #f8f2f4;
+  margin-bottom: 1em;
+}
+#Dossier,
+#Partenaires{
+    font-size: 3rem;
+    color: #f8f2f4;
+    text-align: center;
+    letter-spacing: -.67px;
 }
 
 /* item center */

@@ -1,0 +1,23 @@
+nav{
+	height: 8em;
+
+	background-color: #f8f2f4;
+}
+header .nav-link{
+
+	text-decoration: none;
+	color: #6e0031 !important;
+	font-size: 1.5em;
+}
+.jumbotron{
+	background-image: url(https://s22.postimg.cc/dx2yxyfb5/winter_ball_christmas.jpg);
+	
+	height: 30em;
+	margin-top: 2em;
+}
+#info-article-primary{
+	width: 85%;
+
+	margin-top: 20em;
+	margin-bottom: 40em;
+}
