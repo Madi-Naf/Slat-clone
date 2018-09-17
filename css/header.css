@@ -1,6 +1,8 @@
-nav{
+.header{
 	height: 8em;
-
+	background-color: #f8f2f4;
+}
+nav{
 	background-color: #f8f2f4;
 }
 header .nav-link{
