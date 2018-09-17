@@ -18,9 +18,18 @@
 	width: 25em;
 }
 .article-img-2{
-	margin-bottom: 3em;	
+	margin-bottom: 1em;	
 	width: 45em;
 }
 .grand-format-img{
 	width: 100%;
+}
+.box-out{
+	z-index: 1;
+}
+.box-in{
+	position: absolute;
+	z-index: 2;
+
+	margin-top: -20em;
 }
