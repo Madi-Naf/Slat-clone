@@ -3,11 +3,13 @@ body{
 
 	background-color: #6e0031;
 }
-/*background-color*/
+/*background-color & color*/
 .bg-white-page{
   background-color: #f8f2f4;
 }
-
+.white-text{
+  color: #f8f2f4;
+}
 /* item center */
 .center-container{
   width: 100%;
