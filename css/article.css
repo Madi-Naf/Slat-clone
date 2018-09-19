@@ -1,26 +1,52 @@
+/* -------------------------------*\
+			Article Text
+\*--------------------------------*/
 .article-une-content{
 	width: 70%;
 }
+.article-title,
 .article-une a{
 	text-decoration: none;
 	color: #6e0031;
 }
 
 .article-content{
-	color: #a6959c;
+	color: #86707a;
 	font-size: 1.5em
 }
 .first-three-article{
 	margin-top: 10em;
 }
+.article-infos{
+	color: #86707a;
+}
+.article-author{
+	color: #c13e7d;
+}
+/* -------------------------------*\
+			Article Image
+\*--------------------------------*/
+
 .article-img{
 	margin-bottom: 3em;	
 	width: 25em;
 }
 .article-img-2{
-	margin-bottom: 3em;	
+	margin-bottom: 1em;	
 	width: 45em;
 }
 .grand-format-img{
 	width: 100%;
+}
+/* -------------------------------*\
+			Article Position
+\*--------------------------------*/
+.box-out{
+	z-index: 1;
+}
+.box-in{
+	position: absolute;
+	z-index: 2;
+
+	margin-top: -20em;
 }
