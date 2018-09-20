@@ -1,7 +1,13 @@
+/* -------------------------------*\
+          Header General
+\*--------------------------------*/
 .header{
 	height: 8em;
 	background-color: #f8f2f4;
 }
+/* -------------------------------*\
+          Header Nav
+\*--------------------------------*/
 nav{
 	background-color: #f8f2f4;
 }
@@ -11,12 +17,16 @@ header .nav-link{
 	color: #6e0031 !important;
 	font-size: 1.5em;
 }
-.jumbotron{
+/* -------------------------------*\
+          Background
+\*--------------------------------*/
+.jumbotron-home{
 	background-image: url(https://i.postimg.cc/s2ZLJjmQ/veil_colorful_background_light.jpg);
-	
+
 	height: 30em;
 	margin-top: 2em;
 }
+
 #info-article-primary{
 	width: 85%;
 

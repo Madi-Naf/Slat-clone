@@ -3,6 +3,7 @@
 \*--------------------------------*/
 .article-une-content{
 	width: 70%;
+	font-style: bold;
 }
 .article-title,
 .article-une a{
@@ -28,12 +29,11 @@
 \*--------------------------------*/
 
 .article-img{
-	margin-bottom: 3em;	
-	width: 25em;
+	margin-bottom: 1em;	
+	width: 20em;
 }
 .article-img-2{
-	margin-bottom: 1em;	
-	width: 45em;
+	width: 40em;
 }
 .grand-format-img{
 	width: 100%;
@@ -41,12 +41,17 @@
 /* -------------------------------*\
 			Article Position
 \*--------------------------------*/
+.left-center{
+	display: flex;
+	flex-direction: column;
+}
 .box-out{
 	z-index: 1;
 }
 .box-in{
 	position: absolute;
 	z-index: 2;
-
-	margin-top: -20em;
+}
+.last-articles{
+	padding:2%;
 }
