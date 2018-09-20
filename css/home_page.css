@@ -47,10 +47,12 @@
 }
 .zoom-box{
 	overflow: hidden;
+	background-color: #6e0031;
 
 	display:flex;
   	justify-content: center;
   	align-items: center;
+  	width: 19em;
   	height: 10em;
 }
 .zoom{
