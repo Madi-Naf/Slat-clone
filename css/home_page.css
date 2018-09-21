@@ -127,6 +127,9 @@
 /* -------------------------------*\
 			Footer
 \*--------------------------------*/
+footer{
+	padding: 1.5em;
+}
 footer a{
 	color: #f8f2f4 !important;
 }
@@ -137,4 +140,11 @@ footer a{
 	border-radius: 50%;
 	width: 2em;
 	height: 2em;
+}
+
+.social-network:hover{
+	background-color: #f8f2f4;
+}
+.social-network:hover .footer-link{
+	color:  #6e0031!important;
 }
