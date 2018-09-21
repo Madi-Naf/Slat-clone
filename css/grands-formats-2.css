@@ -1,4 +1,7 @@
 /*__________________ body ____________________ */
+body {
+  background-color: #6e0031;
+}
 
 /* ____zoom photo_____________________________ */
 .block-photo {
@@ -194,6 +197,7 @@
   .titre-article {
     margin-top:-30%;    
   }
+
 }
 
 /* Extra large min 1280px---------------------------------*/
