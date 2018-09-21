@@ -172,3 +172,29 @@
     position: unset;
     z-index: unset;
   } */
+  
+  footer{
+    
+    background-color: #6e0031;
+  }
+  
+  /*.im-bt{*/
+    
+  /*  height: 4rem;*/
+  /*  background-color: #603CC2;*/
+  /*  border-radius: 50%;*/
+  /*}*/
+  
+  .text-main{
+    font-size: 1.25em;
+    color: white;
+  }
+  
+  .lecteur{
+    
+    background-color: white;
+    height: 1em;
+    width: 1em;
+    border-radius: 50%;
+    color: #603CC2;
+  }
