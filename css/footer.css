@@ -6,6 +6,7 @@ footer{
 }
 footer a{
 	color: #f8f2f4 !important;
+	text-decoration: none;
 }
 .social-network{
 	background-color: #6e0031;
@@ -22,3 +23,8 @@ footer a{
 .social-network:hover .footer-link{
 	color:  #6e0031!important;
 }
+
+/* -------------------------------*\
+		Footer Animation
+\*--------------------------------*/
+
