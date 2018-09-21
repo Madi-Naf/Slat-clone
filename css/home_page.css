@@ -124,27 +124,3 @@
 .heure{
 	color: #D3923E;
 }
-/* -------------------------------*\
-			Footer
-\*--------------------------------*/
-footer{
-	padding: 1.5em;
-}
-footer a{
-	color: #f8f2f4 !important;
-}
-.social-network{
-	background-color: #6e0031;
-	border-color: #f8f2f4 ;
-
-	border-radius: 50%;
-	width: 2em;
-	height: 2em;
-}
-
-.social-network:hover{
-	background-color: #f8f2f4;
-}
-.social-network:hover .footer-link{
-	color:  #6e0031!important;
-}
